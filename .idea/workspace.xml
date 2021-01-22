@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6df085d-14a8-4dc9-82bb-b9c80d5170d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nRDN1uUCCpZ3qS2GQwAH3QO1Se" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SelfProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="self_project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.self_project.SelfProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6df085d-14a8-4dc9-82bb-b9c80d5170d4" name="Default Changelist" comment="" />
+      <created>1611343966017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611343966017</updated>
+      <workItem from="1611343973845" duration="860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="28" key="#Notifications" timestamp="1611344856683">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1611344856683" />
+    <state x="287" y="0" key="CommitChangelistDialog2" timestamp="1611344974152">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="287" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1611344974152" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1611344881409">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1611344881409" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1611344979863">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1611344979863" />
+    <state x="472" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611344835208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="472" y="287" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1611344835208" />
+    <state x="465" y="264" key="git4idea.ui.GitResetDialog" timestamp="1611344423971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="465" y="264" key="git4idea.ui.GitResetDialog/0.0.1366.738@0.0.1366.738" timestamp="1611344423971" />
+    <state x="513" y="161" key="svn.repositoryBrowser" timestamp="1611344882386">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="161" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1611344882386" />
+    <state x="90" y="122" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1611344868154">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="90" y="122" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.738@0.0.1366.738" timestamp="1611344868154" />
+  </component>
+</project>
