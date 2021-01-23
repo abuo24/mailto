@@ -26,9 +26,16 @@ public class MailController {
     public ResponseEntity postMail(@RequestBody EmailPayload mail) {
         HtmlEmail email1 = new HtmlEmail();
         email1.setHostName("smtp.googlemail.com");
-        email1.setSmtpPort(465);
+        email1.setSmtpPort(587);
         email1.setAuthenticator(new DefaultAuthenticator("videolaribratli@gmail.com", "Vid1bratli_"));
-        email1.setSSLOnConnect(true);
+//        email1.setSSLOnConnect(true);
+//        email1.setDebug(true);
+        email1.setTLS(true);
+        email1.setStartTLSEnabled(true);
+
+//        spring.mail.debug=true
+//        spring.mail.smtp.auth=true
+//        spring.mail.smtp.starttls.enable=true
         Map<String,Object> model = new HashMap<>();
         try {
 
